@@ -1,0 +1,8 @@
+C:\Assignment\StarsA\StarsA\bin\Debug\StarsA.exe.config
+C:\Assignment\StarsA\StarsA\bin\Debug\StarsA.exe
+C:\Assignment\StarsA\StarsA\bin\Debug\StarsA.pdb
+C:\Assignment\StarsA\StarsA\obj\Debug\StarsA.csproj.AssemblyReference.cache
+C:\Assignment\StarsA\StarsA\obj\Debug\StarsA.csproj.SuggestedBindingRedirects.cache
+C:\Assignment\StarsA\StarsA\obj\Debug\StarsA.csproj.CoreCompileInputs.cache
+C:\Assignment\StarsA\StarsA\obj\Debug\StarsA.exe
+C:\Assignment\StarsA\StarsA\obj\Debug\StarsA.pdb
